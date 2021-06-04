@@ -1,0 +1,5 @@
+{
+  "user": "sa",
+  "password": "sa",
+  "string": "jdbc:h2:E:\\Lekcii\\2  Course\\3 Semester\\Praktikum po OOP i BD\\Week1;AUTO_SERVER=TRUE;"
+}
